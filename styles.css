@@ -1,0 +1,32 @@
+nav{
+    align-items: center;
+    background-color: #34495E;
+    display: flex;
+    color: #3498DB;
+    height: 80px;
+    margin-bottom: 50px;
+    justify-content: space-between;
+}
+#nav-links a{
+    justify-self: space-between;
+}
+
+body{
+    display:flex;
+    flex-direction: column;
+}
+
+#main img{
+    height:300px;
+    width: 250px;
+    float: right;
+}
+
+footer{
+    background-color: #34495E;
+}
+
+footer img{
+    height:50px;
+    width:50px;
+}
